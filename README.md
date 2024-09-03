@@ -1,5 +1,3 @@
-## Hi there, i'm Roman 👋
-
 <!--
 **RomanGHP/RomanGHP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,15 +18,13 @@ Here are some ideas to get you started:
 
 ## Навыки
 
-* *Программирование:* Python, SQL
-* *Визуализация данных:* Tableau
-* *Статистические методы:* Регрессионный анализ, A/B тестирование
+✨ Python (pandas, numpy, matplotlib, seaborn, plotly, scipy, folium), SQL, Tableau, A/B тестирование, MS Excel
 
 ## Обучение
 
-🐍*Курс "Аналитик данных"* - Яндекс.Практикум
+🐍 Курс "Аналитик данных"* - Яндекс.Практикум
 
 ## Контакты
 
-📬*Email:* iscured@yandex.ru
-💬*Telegram:* https://t.me/R_the_Liar
+📬 Email: iscured@yandex.ru\
+💬 Telegram:  https://t.me/R_the_Liar
