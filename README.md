@@ -23,8 +23,3 @@ Here are some ideas to get you started:
 ## Обучение
 
 🐍 Курс "Аналитик данных"* - Яндекс.Практикум
-
-## Контакты
-
-📬 Email: iscured@yandex.ru\
-💬 Telegram:  https://t.me/R_the_Liar
